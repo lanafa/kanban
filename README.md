@@ -21,7 +21,16 @@ This project is a Kanban board system implemented as part of an academic course.
 - **log4net for logging**
 - **N-tier architecture**
 
-## Getting Started
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/kanban.git
+## Project Structure
+- **Backend:** Contains service, business, and data access layers.
+- **Frontend:** WPF-based GUI that interacts with the backend.
+- **BackendTests:** Console project for testing the backend functionality.
+
+## How to Use
+1. **Register** a new account with a valid email and password.
+2. **Login** with your credentials.
+3. **Create a new board** and add tasks to it.
+4. **Manage tasks** by moving them between columns and updating their details.
+
+## Design Documentation
+Detailed design documents, including the class diagram, can be found in the `documents` folder.
