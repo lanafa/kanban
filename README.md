@@ -34,3 +34,7 @@ This project is a Kanban board system implemented as part of an academic course.
 
 ## Design Documentation
 Detailed design documents, including the class diagram, can be found in the `documents` folder.
+
+## License
+* This project is developed as part of an academic course and is subject to course policies regarding code sharing and reuse.
+
